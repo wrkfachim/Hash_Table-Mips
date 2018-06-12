@@ -1,11 +1,11 @@
 #	SSC0112-Organização de Computadores Digitais I
-#	Turma BCC – T1 – 2018-1
+#	Turma BCC
 #
 #		Grupo (8)
 #
-#		Alunos:                  		nro_usp:
+#		Alunos:                  		
 #
-#		Werik Amaral Fachim				7656512
+#		Werik Amaral Fachim				
 #		
 #		
 #		
